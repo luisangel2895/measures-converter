@@ -1,0 +1,28 @@
+{
+  "name": "measures-converter",
+  "version": "0.1.0",
+  "description": "Package to convert pounds to kg",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisangel2895/measures-converter.git"
+  },
+  "keywords": [
+    "converter",
+    "pounds",
+    "kg"
+  ],
+  "author": "Angel Orellana <luisangel2895@gmail.com> (https://angelorellana.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisangel2895/measures-converter/issues"
+  },
+  "homepage": "https://github.com/luisangel2895/measures-converter#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
